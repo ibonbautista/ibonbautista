@@ -1,3 +1,74 @@
+<p style="font-size:20px;">
+	👋 ¡Hola, soy Ibon! Bienvenido a mi perfil de GitHub
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/tu-usuario/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	&nbsp;&nbsp;
+  	<a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+	&nbsp;&nbsp;
+  	<a href="https://tu-portafolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat&color=blue" alt="Contador de visitas" />
+</p>
+<p>
+<h4 align="center">
+  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  •
+  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  •
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  •
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  •
+  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  •
+  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+  •
+  <a href="https://ossinsight.io/blog">Blog</a>
+  •
+  <a href="https://ossinsight.io/docs">API</a>
+  •
+  <a href="https://twitter.com/OSSInsight">Twitter</a>
+</h4>
+</p>
+
+<h1>Presentacion</h1>
+
+<h1>Tecnologias</h1>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th align="center" style="padding: 6px 10px;">Back</th>
+    <th align="center" style="padding: 6px 10px;">Front</th>
+    <th align="center" style="padding: 6px 10px;">Herramientas</th>
+    <th align="center" style="padding: 6px 10px;">Stats</th>
+  </tr>
+  <tr>
+    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=express,java,nodejs,npm,php,mogodb,mysql,spring,sequelize,wordpress&perline=4" /></td>
+    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=html,css,js,pug,react,vite&perline=4" /></td>
+    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=bash,docker,eclipse,git,github,gitlab,idea,linux,md,postman,ubuntu&perline=4" /></td>
+    <td style="padding: 6px 10px;"> <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/></td>
+  </tr>
+</table>
+
+<h1>Proyectos</h1>
+<td align="center">
+  <a href="https://github.com/tu-usuario/proyecto1" target="_blank">
+    <img src="https://link-a-una-imagen1.png" alt="Proyecto 1" width="150"/>
+    <br/>
+    <b>Proyecto 1</b>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <p>Descripción corta.</p>
+</td>
+
+
+<h1>Estadisticas</h1>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
 # 💫 About Me:
 hola esto es la prueba de gprm
 
