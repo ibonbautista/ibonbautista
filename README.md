@@ -8,9 +8,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ibonbautista@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/To Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
+  <div>ibonbautista@gmail.com</div>
+  
+
   <!-- <a href="https://tu-portafolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a> -->
