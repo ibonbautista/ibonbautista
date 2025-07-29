@@ -1,19 +1,19 @@
-## ¡Hola, soy Ibon! Bienvenido a mi perfil de GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat&color=blue" alt="Contador de visitas" />
+## ¡Hola, soy Ibon! Bienvenido a mi perfil de GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat&color=blue" alt="Contador de visitas" />
 
 ![Mi Banner](https://github.com/ibonbautista/ibonbautista/blob/main/banner.png?raw=true)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/ibon-bautista/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:ibonbautista@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://tu-portafolio.com" target="_blank">
+  <!-- <a href="https://tu-portafolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 <br/>
 
@@ -56,7 +56,7 @@ Mis proyectos funcionan y son efectivos, no son los más bonitos, estoy aprendie
     <th align="center">Frontend</th>
   </tr>
   <tr align="center">
-    <td><img width="500px" src="https://skillicons.dev/icons?i=html,css,js,react&perline=10" /></td>
+    <td><img width="400px" src="https://skillicons.dev/icons?i=html,css,js,react&perline=10" /></td>
   </tr>
   <tr align="center">
     <td>
@@ -75,8 +75,9 @@ Mis proyectos funcionan y son efectivos, no son los más bonitos, estoy aprendie
   </tr>
   <tr align="center">
     <td>
-	    <img width="500px" src="https://skillicons.dev/icons?i=docker,postman,linux,md,eclipse,wordpress&perline=10" />
-      <img width="500px" src="https://skillicons.dev/icons?i=git,github,gitlab&perline=10" />
+	<img width="300px" src="https://skillicons.dev/icons?i=wordpress,docker,linux&perline=10" /><br/>
+	<img width="300px" src="https://skillicons.dev/icons?i=md,postman,eclipse&perline=10" /><br/>
+        <img width="300px" src="https://skillicons.dev/icons?i=git,github,gitlab&perline=10" />
     </td>
   </tr>
 </table>
@@ -126,12 +127,13 @@ PROXIMAMENTE
 </table>
 </div>
 <br/> -->
+<br/>
 
 ## ESTADÍSTICAS
   <b>Nota:</b> Este apartado solo muestra el porcentaje de uso de los lenguajes, no mi nivel en ellos.
 <div align="center">
  <table style="border: none; background: none;">
-  <tr>
+  <tr align="center">
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ibonbautista&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
     </td>
